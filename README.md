@@ -5,7 +5,7 @@
 ### Software Engineer | Backend Architect | Cloud Solutions Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-huseynov/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibhuseynov12@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/HabibHuseynov?label=Follow&style=social)](https://github.com/HabibHuseynov)
 
 </div>
@@ -14,22 +14,43 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Software Engineer** based in **Azerbaijan**, specializing in building **scalable, high-performance distributed systems**. With expertise spanning multiple technology stacks, I focus on architecting robust backend solutions, optimizing database performance, and implementing cloud-native microservices architectures.
+I'm a passionate **Backend Software Engineer**, with a love for building systems that are **fast, reliable, and scalable**. 
 
-```typescript
-const habib = {
-    location: "Baku, Azerbaijan",
-    currentFocus: ["Microservices Architecture", "System Design", "Cloud Native Apps"],
-    technologies: {
-        languages: ["Java", "C#", "Python"],
-        frameworks: ["Spring Boot", ".NET Core", "Spring Cloud"],
-        databases: ["PostgreSQL", "MySQL", "Redis"],
-        messageQueues: ["RabbitMQ", "Apache Kafka"],
-        tools: ["Docker", "Git", "Maven", "Gradle"]
-    },
-    architecture: ["Event-Driven", "CQRS", "RESTful APIs", "Microservices"],
-    currentlyLearning: ["Kubernetes", "Cloud Architecture Patterns", "System Design at Scale"]
-};
+I enjoy working with **Java** and **Spring Boot** to create robust backend services, designing **RESTful APIs**, and solving complex technical challenges. Whether it's optimizing database queries, implementing message queues, or deploying applications to the cloud, I'm always excited to learn and build something meaningful.
+
+```java
+public class HabibHuseynov {
+    
+    private String location = "Baku, Azerbaijan";
+    private String currentRole = "Backend Software Engineer";
+    
+    private List<String> mainTechnologies = Arrays.asList(
+        "Java", "Spring Boot", "C#", ".NET Core", "Python"
+    );
+    
+    private List<String> databases = Arrays.asList(
+        "PostgreSQL", "MySQL", "Redis"
+    );
+    
+    private List<String> messageQueues = Arrays.asList(
+        "RabbitMQ", "Apache Kafka"
+    );
+    
+    private List<String> cloudPlatforms = Arrays.asList(
+        "AWS (EC2, S3, RDS, Lambda)", "Docker"
+    );
+    
+    private List<String> currentFocus = Arrays.asList(
+        "Building Microservices",
+        "Event-Driven Architecture", 
+        "Cloud-Native Applications",
+        "System Design & Scalability"
+    );
+    
+    public String getMotivation() {
+        return "Writing clean code and solving real-world problems!";
+    }
+}
 ```
 
 ---
@@ -38,68 +59,74 @@ const habib = {
 
 <div align="center">
 
-### Languages & Frameworks
+### 🔧 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Databases & Caching
+### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Message Brokers & Streaming
+### 📨 Message Brokers & Event Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### DevOps & Tools
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AWS Services I Work With:** EC2 • S3 • RDS • Lambda • CloudWatch • IAM
 
 </div>
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 What I Do Best
 
-```mermaid
-mindmap
-  root((Backend Engineering))
-    System Architecture
-      Microservices Design
-      Event-Driven Systems
-      API Design
-      Scalability Patterns
-    Database Engineering
-      SQL Optimization
-      Schema Design
-      Caching Strategies
-      Data Modeling
-    DevOps Practices
-      Containerization
-      CI/CD Pipelines
-      Cloud Deployment
-      Monitoring & Logging
-    Software Practices
-      Clean Code
-      Design Patterns
-      Testing Strategies
-      Code Reviews
-```
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🏗️ Backend Development
+Building robust APIs and services using **Java Spring Boot**
+
+</td>
+<td align="center" width="25%">
+
+### 💾 Database Design
+Designing efficient database schemas and optimizing queries for **PostgreSQL**
+
+</td>
+<td align="center" width="25%">
+
+### 🔄 Message Queues
+Implementing asynchronous communication with **RabbitMQ** and **Kafka**
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ Cloud Deployment
+Deploying and managing applications on **AWS** using **Docker**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 What I'm Currently Working On
+## 🔥 What I'm Working On Right Now
 
-- 🏗️ Designing and implementing **microservices architectures** with Spring Boot
-- 🔄 Building **event-driven systems** using RabbitMQ and Kafka
-- ⚡ Optimizing **database performance** and implementing efficient caching strategies
-- 🐳 Containerizing applications with **Docker** for cloud-native deployments
-- 📚 Exploring **distributed systems** patterns and **system design** principles
+- 💼 Building **backend services** with **Spring Boot** that handle thousands of requests
+- 🚀 Creating **RESTful APIs** that are fast, secure, and easy to use
+- 📬 Working with **RabbitMQ** and **Kafka** for real-time message processing
+- 🗃️ Optimizing **database performance** and making queries run faster
+- ☁️ Deploying applications to **AWS** and learning cloud best practices
+- 🐳 Containerizing apps with **Docker** for easier deployment and scaling
 
 ---
 
@@ -117,46 +144,68 @@ mindmap
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projects & Work
 
-> Coming soon! I'm working on publishing some exciting open-source projects. Stay tuned!
+<div align="center">
+
+### 🚀 Coming Soon!
+
+I'm currently working on some exciting projects that I'll be sharing here soon. These include:
+- **Microservices** with Spring Boot and RabbitMQ
+- **RESTful APIs** with best practices
+- **AWS deployment** examples and tutorials
+
+*Stay tuned for updates!* ⭐
+
+</div>
 
 <!-- 
-Uncomment and fill in when you have projects to showcase:
+When you're ready to showcase projects, use this template:
 
 ### 🎯 [Project Name](https://github.com/HabibHuseynov/project-name)
-Brief description of what this project does and the technologies used.
-- **Tech Stack:** Spring Boot, PostgreSQL, Redis, Docker
-- **Highlights:** High-performance API, Microservices architecture, Event-driven design
+**Description:** A brief, clear description of what this project does
+- **Technologies:** Spring Boot, PostgreSQL, Redis, Docker, AWS
+- **Key Features:** 
+  - Feature 1
+  - Feature 2
+  - Feature 3
 
-### 🚀 [Another Project](https://github.com/HabibHuseynov/another-project)
-Description of another cool project you've built.
-- **Tech Stack:** .NET Core, SQL Server, RabbitMQ
-- **Highlights:** Real-time processing, CQRS pattern, Cloud-ready
+---
 -->
 
 ---
 
-## 📈 Professional Focus Areas
+## 🌱 My Learning Journey
+
+I believe in **continuous learning** and staying updated with the latest technologies. Here's what I'm currently exploring:
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🏗️ Backend Architecture
-Building scalable, maintainable systems with clean architecture principles and SOLID design patterns.
+### 📚 Learning
+- **Kubernetes** for container orchestration
+- **Microservices** design patterns
+- **System Design** principles
+- **AWS** advanced services
 
 </td>
 <td align="center" width="33%">
 
-### 🔄 Microservices
-Designing distributed systems with proper service boundaries, communication patterns, and data consistency.
+### 🎯 Goals for 2025
+- Build more **open-source projects**
+- Master **cloud architecture**
+- Contribute to **community**
+- Share knowledge through **blog posts**
 
 </td>
 <td align="center" width="33%">
 
-### ⚡ Performance
-Optimizing application performance through efficient algorithms, caching strategies, and database tuning.
+### 💪 Strengths
+- Problem-solving mindset
+- Writing clean, readable code
+- Team collaboration
+- Quick learner
 
 </td>
 </tr>
@@ -164,29 +213,25 @@ Optimizing application performance through efficient algorithms, caching strateg
 
 ---
 
-## 🌱 Currently Learning
+## 💡 My Development Philosophy
 
-- **Kubernetes & Container Orchestration** - Scaling containerized applications
-- **System Design** - Designing large-scale distributed systems
-- **Cloud Architecture** - AWS/Azure cloud-native patterns
-- **Advanced Database Optimization** - Query tuning and performance engineering
+```java
+// Simple principles I follow every day
 
----
-
-## 💡 Engineering Principles I Follow
-
-```yaml
-philosophy:
-  - "Clean code is not written by following a set of rules, but by caring deeply about the craft"
-  - "Make it work, make it right, make it fast - in that order"
-  - "Simplicity is the ultimate sophistication"
-  - "Premature optimization is the root of all evil"
-  
-practices:
-  - Write self-documenting code with meaningful names
-  - Test-driven development for critical business logic
-  - Continuous learning and knowledge sharing
-  - Code reviews as a learning opportunity
+class MyCodePhilosophy {
+    
+    String rule1 = "Write code that others (and future me) can understand";
+    String rule2 = "Test important features before shipping";
+    String rule3 = "Make it work first, then make it better";
+    String rule4 = "Learn from mistakes and keep improving";
+    String rule5 = "Ask questions when stuck - no ego in learning";
+    
+    public void developSoftware() {
+        // Keep it simple
+        // Keep it clean
+        // Keep it working
+    }
+}
 ```
 
 ---
@@ -195,23 +240,27 @@ practices:
 
 <div align="center">
 
-I'm always interested in discussing **backend architecture**, **system design**, and **software engineering best practices**. 
+I'm always happy to connect with fellow developers, discuss technology, or collaborate on interesting projects! 
 
-Whether you want to collaborate on a project, discuss technology, or just say hi, feel free to reach out!
+💬 Feel free to reach out if you want to:
+- Talk about **Java**, **Spring Boot**, or **backend development**
+- Discuss **system design** or **software architecture**
+- Collaborate on **open-source projects**
+- Just say hi and share ideas! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-huseynov/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibhuseynov12@gmail.com)
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=HabibHuseynov&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
 
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
+**💫 Thanks for stopping by! If you like what you see, feel free to star ⭐ any of my repositories!**
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and ☕ by Habib Huseynov</sub>
+  <sub>Made with ☕ and passion for clean code | Baku, Azerbaijan 🇦🇿</sub>
 </div>
