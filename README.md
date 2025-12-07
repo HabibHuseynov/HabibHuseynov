@@ -1,96 +1,217 @@
 <div align="center">
-  <h1 style="border-bottom: none;">Hi, I'm Habib Huseynov 👋</h1>
-  <h3>Software Engineer | Backend Specialist | System Architecture</h3>
+  
+# 👋 Hello, I'm Habib Huseynov
+
+### Software Engineer | Backend Architect | Cloud Solutions Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-huseynov/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/HabibHuseynov?label=Follow&style=social)](https://github.com/HabibHuseynov)
+
 </div>
 
-<br />
+---
 
-<p align="center">
-  Based in <b>Azerbaijan</b>, I engineer scalable, high-performance software solutions. <br />
-  My focus is on building robust backend systems, optimizing database architecture, and designing cloud-native applications.
-</p>
+## 🚀 About Me
+
+I'm a passionate **Backend Software Engineer** based in **Azerbaijan**, specializing in building **scalable, high-performance distributed systems**. With expertise spanning multiple technology stacks, I focus on architecting robust backend solutions, optimizing database performance, and implementing cloud-native microservices architectures.
+
+```typescript
+const habib = {
+    location: "Baku, Azerbaijan",
+    currentFocus: ["Microservices Architecture", "System Design", "Cloud Native Apps"],
+    technologies: {
+        languages: ["Java", "C#", "Python"],
+        frameworks: ["Spring Boot", ".NET Core", "Spring Cloud"],
+        databases: ["PostgreSQL", "MySQL", "Redis"],
+        messageQueues: ["RabbitMQ", "Apache Kafka"],
+        tools: ["Docker", "Git", "Maven", "Gradle"]
+    },
+    architecture: ["Event-Driven", "CQRS", "RESTful APIs", "Microservices"],
+    currentlyLearning: ["Kubernetes", "Cloud Architecture Patterns", "System Design at Scale"]
+};
+```
+
+---
+
+## 💻 Technology Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/habib-huseynov/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Message Brokers & Streaming
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<br />
-<br />
+---
 
-### 🛠 Technical Expertise
+## 🎯 Core Competencies
+
+```mermaid
+mindmap
+  root((Backend Engineering))
+    System Architecture
+      Microservices Design
+      Event-Driven Systems
+      API Design
+      Scalability Patterns
+    Database Engineering
+      SQL Optimization
+      Schema Design
+      Caching Strategies
+      Data Modeling
+    DevOps Practices
+      Containerization
+      CI/CD Pipelines
+      Cloud Deployment
+      Monitoring & Logging
+    Software Practices
+      Clean Code
+      Design Patterns
+      Testing Strategies
+      Code Reviews
+```
+
+---
+
+## 🔥 What I'm Currently Working On
+
+- 🏗️ Designing and implementing **microservices architectures** with Spring Boot
+- 🔄 Building **event-driven systems** using RabbitMQ and Kafka
+- ⚡ Optimizing **database performance** and implementing efficient caching strategies
+- 🐳 Containerizing applications with **Docker** for cloud-native deployments
+- 📚 Exploring **distributed systems** patterns and **system design** principles
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HabibHuseynov&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibHuseynov&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibHuseynov&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HabibHuseynov&theme=radical&hide_border=true&area=true" height="165" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+> Coming soon! I'm working on publishing some exciting open-source projects. Stay tuned!
+
+<!-- 
+Uncomment and fill in when you have projects to showcase:
+
+### 🎯 [Project Name](https://github.com/HabibHuseynov/project-name)
+Brief description of what this project does and the technologies used.
+- **Tech Stack:** Spring Boot, PostgreSQL, Redis, Docker
+- **Highlights:** High-performance API, Microservices architecture, Event-driven design
+
+### 🚀 [Another Project](https://github.com/HabibHuseynov/another-project)
+Description of another cool project you've built.
+- **Tech Stack:** .NET Core, SQL Server, RabbitMQ
+- **Highlights:** Real-time processing, CQRS pattern, Cloud-ready
+-->
+
+---
+
+## 📈 Professional Focus Areas
 
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET Core
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br>RabbitMQ
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+
+### 🏗️ Backend Architecture
+Building scalable, maintainable systems with clean architecture principles and SOLID design patterns.
+
+</td>
+<td align="center" width="33%">
+
+### 🔄 Microservices
+Designing distributed systems with proper service boundaries, communication patterns, and data consistency.
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ Performance
+Optimizing application performance through efficient algorithms, caching strategies, and database tuning.
+
+</td>
+</tr>
 </table>
 
-<br />
+---
 
-### 📊 GitHub Activity
+## 🌱 Currently Learning
+
+- **Kubernetes & Container Orchestration** - Scaling containerized applications
+- **System Design** - Designing large-scale distributed systems
+- **Cloud Architecture** - AWS/Azure cloud-native patterns
+- **Advanced Database Optimization** - Query tuning and performance engineering
+
+---
+
+## 💡 Engineering Principles I Follow
+
+```yaml
+philosophy:
+  - "Clean code is not written by following a set of rules, but by caring deeply about the craft"
+  - "Make it work, make it right, make it fast - in that order"
+  - "Simplicity is the ultimate sophistication"
+  - "Premature optimization is the root of all evil"
+  
+practices:
+  - Write self-documenting code with meaningful names
+  - Test-driven development for critical business logic
+  - Continuous learning and knowledge sharing
+  - Code reviews as a learning opportunity
+```
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabibHuseynov&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=666" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibHuseynov&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=666" height="150" alt="languages graph" />
+
+I'm always interested in discussing **backend architecture**, **system design**, and **software engineering best practices**. 
+
+Whether you want to collaborate on a project, discuss technology, or just say hi, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-huseynov/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=HabibHuseynov&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
+
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
+
 </div>
 
-<br />
-<br />
+---
 
 <div align="center">
-  <sub>Let's build something efficient. Reach out via <a href="https://www.linkedin.com/in/habib-huseynov/">LinkedIn</a>.</sub>
+  <sub>Built with ❤️ and ☕ by Habib Huseynov</sub>
 </div>
