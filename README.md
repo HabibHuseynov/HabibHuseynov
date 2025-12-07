@@ -25,11 +25,11 @@ public class HabibHuseynov {
     private String currentRole = "Backend Software Engineer";
     
     private List<String> mainTechnologies = Arrays.asList(
-        "Java", "Spring Boot", "C#", ".NET Core", "Python"
+        "Java", "Spring Boot", "Go", "Python"
     );
     
     private List<String> databases = Arrays.asList(
-        "PostgreSQL", "MySQL", "Redis"
+        "PostgreSQL", "Redis"
     );
     
     private List<String> messageQueues = Arrays.asList(
@@ -37,7 +37,7 @@ public class HabibHuseynov {
     );
     
     private List<String> cloudPlatforms = Arrays.asList(
-        "AWS (EC2, S3, RDS, Lambda)", "Docker"
+        "AWS (EC2, S3, RDS, Lambda)", Kubernetes, "Docker"
     );
     
     private List<String> currentFocus = Arrays.asList(
